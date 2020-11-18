@@ -21,8 +21,6 @@ import { Drawer } from 'antd';
 import {
   Context,
   ContextStatus,
-  ContextRejectedFilter,
-  ContextCompleteFilter,
   ContextActiveFilters,
   ContextStyle,
   ContextMargin,
